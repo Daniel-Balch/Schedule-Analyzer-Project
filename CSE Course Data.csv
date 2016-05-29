@@ -1,0 +1,127 @@
+CRN,SUBJ,CRSE,SECTION,TITLE,HOURS,ENRL,MAX_ENRL,START_TIME,END_TIME,DAYS,BLDG,ROOM,INSTRUCTOR,MEETING_TYPE,MEETING_CATEGORY
+71367,CSE,148,  E,Business Computing,3,30,28,1430,1550,MW,BEN,024,"Ucci, Frances",CLAS,01
+71382,CSE,148, FF,Business Computing,3,30,28,1600,1720,TR,BEN,024,"Parece, Julianne",CLAS,01
+71609,CSE,151,M A,"Computers, Comp Sci & Society",3,23,24,1130,1250,TR,JHN,015,"Donohue, Catherine",CLAS,01
+71715,CSE,174,H A,Fundmntls-Progrming&Prob Solvg,3,20,24,1800,2155,M,MOS,300,"Ghosh, Krishnendu",CLAS,01
+75061,CSE,174,H B,Fundmntls-Progrming&Prob Solvg,3,24,26,1300,1450,MW,MOS,319,"Ghosh, Krishnendu",CLAS,01
+78918,CSE,262,  C,"Tech,Ethics & Global Society",3,26,16,1430,1550,TR,BEN,204,"Cross, Valerie",CLAS,01
+71335,CSE,271,  B,Object-Oriented Programming,3,28,28,1000,1150,TR,BEN,002,"Stahr, Michael",CLAS,01
+74688,CSE,274,  B,Data Abstractions & Structures,3,28,26,1000,1120,T,BEN,207,"Duraisamy, Prakash",CLAS,01
+74688,CSE,274,  B,Data Abstractions & Structures,3,28,26,1000,1120,R,BEN,006,"Duraisamy, Prakash",CLAS,02
+78859,CSE,278,  C,Computer Architecture,3,28,24,1600,1750,TR,BEN,010,"Alomari, Hakam",CLAS,01
+71346,CSE,443,  A,High Performance Computing,3,18,19,1430,1550,WF,BEN,002,"Rao, Dhananjai",CLAS,01
+71351,CSE,471,  A,Simulation,3,15,20,0830,0950,MW,BEN,009,"Zmuda, Michael",CLAS,01
+80524,CSE,543,  B,High Performance Computing,3,6,3,1600,1720,WF,BEN,002,"Rao, Dhananjai",CLAS,01
+71356,CSE,571,  A,Simulation,3,6,8,0830,0950,MW,BEN,009,"Zmuda, Michael",CLAS,01
+76310,CSE,102,  A,Computing and Engineering,3,36,36,0800,0950,F,BEN,016,"Gelfond, Gregory",CLAS,02
+76310,CSE,102,  A,Computing and Engineering,3,36,36,0830,0925,MW,BEN,102,"Gelfond, Gregory",CLAS,01
+76315,CSE,102,  C,Computing and Engineering,3,36,36,0800,0950,F,BEN,010,"Gelfond, Gregory",CLAS,02
+76315,CSE,102,  C,Computing and Engineering,3,36,36,0830,0925,MW,BEN,102,"Gelfond, Gregory",CLAS,01
+71329,CSE,174,  D,Fundmntls-Progrming&Prob Solvg,3,26,20,1000,1150,F,BEN,001,"Krumpe, Norman",CLAS,02
+71329,CSE,174,  D,Fundmntls-Progrming&Prob Solvg,3,26,20,1300,1355,MW,KRG,319,"Krumpe, Norman",CLAS,01
+77220,CSE,253P,  A,Programming Problems,1 - 2,1,12,,,,,,"Zmuda, Michael",CLAS,01
+79588,CSE,274,  C,Data Abstractions & Structures,3,28,26,1130,1250,T,BEN,207,"Duraisamy, Prakash",CLAS,01
+79588,CSE,274,  C,Data Abstractions & Structures,3,28,26,1130,1250,R,BEN,006,"Duraisamy, Prakash",CLAS,02
+80488,CSE,102,  E,Computing and Engineering,3,28,26,0830,0925,MW,BEN,102,"Gelfond, Gregory",CLAS,01
+80488,CSE,102,  E,Computing and Engineering,3,28,26,1600,1750,R,BEN,002,"Gelfond, Gregory",CLAS,02
+71366,CSE,148,  D,Business Computing,3,30,28,1300,1420,MW,BEN,024,"Ucci, Frances",CLAS,01
+71339,CSE,274,  A,Data Abstractions & Structures,3,28,26,0830,0950,T,BEN,207,"Duraisamy, Prakash",CLAS,01
+71339,CSE,274,  A,Data Abstractions & Structures,3,28,26,0830,0950,R,BEN,006,"Duraisamy, Prakash",CLAS,02
+71340,CSE,278,  A,Computer Architecture,3,32,24,0800,0950,TR,BEN,010,"Alomari, Hakam",CLAS,01
+74689,CSE,278,  B,Computer Architecture,3,35,24,1400,1550,TR,BEN,010,"Alomari, Hakam",CLAS,01
+77869,CSE,443,  B,High Performance Computing,3,19,25,1600,1720,WF,BEN,002,"Rao, Dhananjai",CLAS,01
+71347,CSE,464,  A,Algorithms,3,39,22,1130,1250,MW,BEN,207,"Gelfond, Gregory",CLAS,01
+76313,CSE,102,  B,Computing and Engineering,3,35,36,0830,0925,MW,BEN,102,"Gelfond, Gregory",CLAS,01
+76313,CSE,102,  B,Computing and Engineering,3,35,36,1000,1150,F,BEN,016,"Gelfond, Gregory",CLAS,02
+76317,CSE,102,  D,Computing and Engineering,3,33,36,0830,0925,MW,BEN,102,"Gelfond, Gregory",CLAS,01
+76317,CSE,102,  D,Computing and Engineering,3,33,36,1000,1150,F,BEN,010,"Gelfond, Gregory",CLAS,02
+71364,CSE,148,  C,Business Computing,3,30,28,1130,1250,MW,BEN,024,"Ucci, Frances",CLAS,01
+71327,CSE,174,  B,Fundmntls-Progrming&Prob Solvg,3,28,20,1130,1225,MW,KRG,319,"Krumpe, Norman",CLAS,01
+71327,CSE,174,  B,Fundmntls-Progrming&Prob Solvg,3,28,20,1200,1350,F,BEN,006,"Krumpe, Norman",CLAS,02
+75422,CSE,320,  A,Professional Practice,0,1,0,,,,,,"Krumpe, Norman",CLAS,01
+71362,CSE,148,  A,Business Computing,3,30,28,0830,0950,MW,BEN,024,"Foster, Drew",CLAS,01
+71363,CSE,148,  B,Business Computing,3,30,28,1000,1120,MW,BEN,024,"Foster, Drew",CLAS,01
+71379,CSE,148, CC,Business Computing,3,30,28,1130,1250,TR,BEN,024,"Cruez, Rebecca",CLAS,01
+71385,CSE,148, LL,Business Computing,3,30,28,1300,1420,TR,BEN,001,"Shukla, Juhi",CLAS,01
+76891,CSE,148,  N,Business Computing,3,30,28,1600,1720,MW,BEN,001,"Ledford, Carolyn",CLAS,01
+71372,CSE,148,  L,Business Computing,3,30,28,1300,1420,MW,BEN,001,"Ledford, Carolyn",CLAS,01
+77862,CSE,148, NN,Business Computing,3,30,28,1600,1720,TR,BEN,001,"Drake, Duane",CLAS,01
+76123,CSE,153,H A,"Intro to ""C"" Programming",3,23,24,1600,1720,M,MOS,320,"Courte, Jill",CLAS,01
+71629,CSE,220,M A,Professional Practice,0,0,0,,,,,,"Cassady, Shelley",CLAS,01
+76451,CSE,262,H B,"Tech,Ethics & Global Society",3,13,12,1430,1550,R,MOS,300,"Woods, David",CLAS,01
+72350,CSE,262,H A,"Tech,Ethics & Global Society",3,5,5,1000,1120,T,MOS,300,"Woods, David",CLAS,01
+80661,CSE,310D,  A,Preparing for Tech Interviews,1,5,0,1600,1655,R,BEN,213,"Karro, John",CLAS,01
+71332,CSE,262,  A,"Tech,Ethics & Global Society",3,23,16,1000,1120,MW,BEN,207,"Kiper, James",CLAS,01
+80143,CSE,283,H A,Data Communications & Network,3,13,22,1300,1450,MW,MOS,320,"Werner, Laurena",CLAS,01
+75166,CSE,456,  A,Bioinformatics Principles,3,4,4,1300,1420,TR,BEN,002,"Liang, Chun",CLAS,01
+71331,CSE,252,  A,Web Application Programming,3,27,25,1600,1720,TR,BEN,006,"Beck, Michael",CLAS,01
+75167,CSE,556,  A,Bioinformatics Principles,3,1,2,1300,1420,TR,BEN,002,"Liang, Chun",CLAS,01
+79604,CSE,631,  A,Ontologies for Semantic Web,3,4,16,1300,1420,TR,BEN,207,"Cross, Valerie",CLAS,01
+71711,CSE,151,H C,"Computers, Comp Sci & Society",3,14,24,1600,1850,R,MOS,300,"Donohue, Catherine",CLAS,01
+71325,CSE,174,  A,Fundmntls-Progrming&Prob Solvg,3,28,20,1000,1150,F,BEN,006,"Krumpe, Norman",CLAS,02
+71325,CSE,174,  A,Fundmntls-Progrming&Prob Solvg,3,28,20,1130,1225,MW,KRG,319,"Krumpe, Norman",CLAS,01
+72938,CSE,211,  A,Software Construction,3,34,34,1000,1120,TR,BEN,213,"Alomari, Hakam",CLAS,01
+72427,CSE,220,H A,Professional Practice,0,0,0,,,,,,"Cassady, Shelley",CLAS,01
+77863,CSE,243,  B,Problem Analysis and Computers,3,16,22,1000,1120,TR,BEN,001,"Foster, Drew",CLAS,01
+77868,CSE,271,  F,Object-Oriented Programming,3,31,36,1800,1950,TR,BEN,010,"Stahr, Michael",CLAS,01
+71378,CSE,148, BB,Business Computing,3,30,28,1000,1120,TR,BEN,024,"Cruez, Rebecca",CLAS,01
+71380,CSE,148, DD,Business Computing,3,30,28,1300,1420,TR,BEN,024,"Cruez, Rebecca",CLAS,01
+71328,CSE,174,  C,Fundmntls-Progrming&Prob Solvg,3,28,20,1130,1225,MW,KRG,319,"Krumpe, Norman",CLAS,01
+71328,CSE,174,  C,Fundmntls-Progrming&Prob Solvg,3,28,20,1400,1550,F,BEN,006,"Krumpe, Norman",CLAS,02
+79723,CSE,256,  A,Programming in Life Sciences,3,1,0,1000,1120,WF,BEN,009,"Karro, John",CLAS,01
+74685,CSE,262,  B,"Tech,Ethics & Global Society",3,20,16,1130,1250,TR,BEN,204,"Cross, Valerie",CLAS,01
+71334,CSE,271,  A,Object-Oriented Programming,3,27,28,1200,1350,WF,BEN,002,"Stahr, Michael",CLAS,01
+71426,CSE,448,  A,Senior Design Project,2,12,20,1800,1855,M,,,"Kiper, James",CLAS,01
+71353,CSE,543,  A,High Performance Computing,3,8,8,1430,1550,WF,BEN,002,"Rao, Dhananjai",CLAS,01
+79602,CSE,574,  A,Compiler Design,3,9,0,1300,1420,WF,BEN,206,"Karro, John",CLAS,01
+72966,CSE,148, MM,Business Computing,3,30,28,1430,1550,TR,BEN,001,"Shukla, Juhi",CLAS,01
+77866,CSE,174,  F,Fundmntls-Progrming&Prob Solvg,3,30,20,1300,1355,MW,KRG,319,"Krumpe, Norman",CLAS,01
+77866,CSE,174,  F,Fundmntls-Progrming&Prob Solvg,3,30,20,1400,1550,F,BEN,001,"Krumpe, Norman",CLAS,02
+79601,CSE,474,  A,Compiler Design,3,24,16,1300,1420,WF,BEN,206,"Karro, John",CLAS,01
+71354,CSE,564,  A,Algorithms,3,6,6,1130,1250,MW,BEN,207,"Gelfond, Gregory",CLAS,01
+71373,CSE,148,  M,Business Computing,3,30,28,1430,1550,MW,BEN,001,"Ledford, Carolyn",CLAS,01
+77135,CSE,148, GG,Business Computing,3,30,28,1800,1920,TR,BEN,024,"Parece, Julianne",CLAS,01
+74683,CSE,174,  E,Fundmntls-Progrming&Prob Solvg,3,27,20,1200,1350,F,BEN,001,"Krumpe, Norman",CLAS,02
+74683,CSE,174,  E,Fundmntls-Progrming&Prob Solvg,3,27,20,1300,1355,MW,KRG,319,"Krumpe, Norman",CLAS,01
+80168,CSE,387,  A,Game Engine Design,3,20,20,1300,1420,TR,BEN,006,"Bachmann, Eric",CLAS,01
+72319,CSE,700,  A,Master's Research,0 - 9,1,0,,,,,,"Bachmann, Eric",CLAS,01
+71352,CSE,487,  A,Game Design and Implementation,3,20,21,1430,1550,TR,BEN,006,"Bachmann, Eric",CLAS,01
+77218,CSE,587,  A,Game Design and Implementation,3,4,3,1430,1550,TR,BEN,006,"Bachmann, Eric",CLAS,01
+79591,CSE,311,  A,Software Architecture & Design,3,32,20,0830,0950,TR,BEN,206,"Gannod, Gerald",CLAS,01
+72271,CSE,690,  A,Graduate Research,3,1,0,,,,,,"Gannod, Gerald",CLAS,01
+79599,CSE,551,  A,Web Services,3,2,4,1130,1250,TR,BEN,010,"Campbell, Scott",CLAS,01
+79598,CSE,451,  A,Web Services,3,33,20,1130,1250,TR,BEN,010,"Campbell, Scott",CLAS,01
+71384,CSE,148, KK,Business Computing,3,30,28,1130,1250,TR,BEN,001,"Kinne, Michael",CLAS,01
+72130,CSE,151,H B,"Computers, Comp Sci & Society",3,28,24,,,,WEB,,"Murphy, Marianne",CLAS,01
+71336,CSE,271,  C,Object-Oriented Programming,3,26,28,1800,1950,MW,BEN,002,"Gopalasamy, Karthikeyan",CLAS,01
+72356,CSE,700,  B,Master's Research,0 - 9,1,0,,,,,,"Brinkman, William",CLAS,01
+71627,CSE,163,M A,Intro-Computer Concepts & Prog,3,20,24,1300,1450,MW,JHN,015,"Seibold, Pam",CLAS,01
+71713,CSE,163,H A,Intro-Computer Concepts & Prog,3,21,24,1300,1450,TR,MOS,322,"Seibold, Pam",CLAS,01
+71337,CSE,271,  D,Object-Oriented Programming,3,34,36,1200,1350,F,BEN,010,"Stephan, Matthew",CLAS,02
+71337,CSE,271,  D,Object-Oriented Programming,3,34,36,1430,1525,TR,BEN,102,"Stephan, Matthew",CLAS,01
+74687,CSE,271,  E,Object-Oriented Programming,3,34,36,1400,1550,F,BEN,010,"Stephan, Matthew",CLAS,02
+74687,CSE,271,  E,Object-Oriented Programming,3,34,36,1430,1525,TR,BEN,102,"Stephan, Matthew",CLAS,01
+74693,CSE,616,  A,Simulation of Physical Systems,3,15,18,1800,1920,TR,BEN,002,"Ferrenberg, Alan",CLAS,01
+71368,CSE,148,  F,Business Computing,3,30,28,1600,1720,MW,BEN,024,"Tepe, Dirk",CLAS,01
+76135,CSE,148,  K,Business Computing,3,30,28,1130,1250,MW,BEN,001,"Meaney, Stephen",CLAS,01
+79792,CSE,148,  J,Business Computing,3,29,28,1000,1120,MW,BEN,001,"Meaney, Stephen",CLAS,01
+79603,CSE,617,  A,Advanced Networks,3,13,16,0830,0950,TR,BEN,002,"Yue, Jianhui",CLAS,01
+71341,CSE,283,  A,Data Communications & Network,3,22,32,0800,0950,MW,BEN,010,"Yue, Jianhui",CLAS,01
+74690,CSE,283,  B,Data Communications & Network,3,31,32,1000,1150,MW,BEN,010,"Yue, Jianhui",CLAS,01
+79793,CSE,148,  O,Business Computing,3,28,28,1800,1920,MW,BEN,001,"Kellogg, Joanna",CLAS,01
+74684,CSE,251,  A,Intro to Game Programming,3,28,28,1800,2040,M,BEN,010,"Bernard, Christopher",CLAS,01
+71716,CSE,271,M A,Object-Oriented Programming,3,20,24,1900,2020,MW,JHN,118,"Luczaj, Jerome",CLAS,01
+71338,CSE,273,  A,Optimization Modeling,3,44,40,1600,1720,TR,BEN,207,"Patton, Jon",CLAS,01
+71630,CSE,262,M A,"Tech,Ethics & Global Society",3,8,8,1130,1250,M,JHN,015,"Evans, Donna",CLAS,01
+71427,CSE,449,  A,Senior Design Project,1 - 2,53,60,1800,1855,M,,,"Kiper, James",CLAS,01
+74691,CSE,465,  A,Comparative Prog. Languages,3,55,26,1000,1120,TR,KRG,221,"Zmuda, Michael",CLAS,01
+74692,CSE,565,  A,Comparative Prog. Languages,3,3,3,1000,1120,TR,KRG,221,"Zmuda, Michael",CLAS,01
+76144,CSE,151,  A,"Computers, Comp Sci & Society",3,28,28,1800,1920,TR,BEN,006,"Pagura, Ann",CLAS,01
+79592,CSE,321,  A,Software Quality Assurance,3,31,20,1430,1550,MW,BEN,009,"Sobel, Ann",CLAS,01
+71330,CSE,201,  A,Intro to Software Engineering,3,30,32,1130,1250,MW,BEN,009,"Sobel, Ann",CLAS,01
+79584,CSE,201,  B,Intro to Software Engineering,3,28,32,1300,1420,MW,BEN,009,"Sobel, Ann",CLAS,01
+77861,CSE,148,  G,Business Computing,3,30,28,1800,1920,MW,BEN,024,"Stiles, William",CLAS,01
+71377,CSE,148, AA,Business Computing,3,30,28,0830,0950,TR,BEN,024,"Toaddy, Jeffrey",CLAS,01
+71344,CSE,385,  A,Database Systems,3,34,34,0830,0950,MW,BEN,016,"Inclezan, Daniela",CLAS,01
+79593,CSE,385,  B,Database Systems,3,34,34,1000,1120,MW,BEN,016,"Inclezan, Daniela",CLAS,01
+71381,CSE,148, EE,Business Computing,3,30,28,1430,1550,TR,BEN,024,"Weber, Matthew",CLAS,01
